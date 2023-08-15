@@ -59,10 +59,10 @@ const Navbar = () => {
                             News
                         </Link>
                         <Link
-                            to="/"
+                            to="/explore"
                             className="text-white hover:bg-red-700 px-3 mr-3 py-2 rounded-md text-sm font-medium"
                         >
-                            About NR
+                            Explore
                         </Link>
                         <Link
                             to="/contact"
@@ -99,10 +99,10 @@ const Navbar = () => {
                                 News
                             </Link>
                             <Link
-                                to="/"
+                                to="/explore"
                                 className="text-white hover:bg-red-700 block px-3 py-2 rounded-md text-base font-medium"
                             >
-                                About NR
+                                Explore
                             </Link>
                             <Link
                                 to="/contact"

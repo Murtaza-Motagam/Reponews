@@ -6,6 +6,7 @@ import Home from './pages/Home'
 import Trending from './pages/Trending'
 import Contact from './pages/Contact'
 import News from './pages/News'
+import Explore from './pages/Explore';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
             <Route>
               <Route  exact path="/" element={<Home />} />
               <Route path="/trending" element={<Trending />} />
+              <Route path="/explore" element={<Explore />} />
               <Route path="/news" element={<News category="general" country="in"/>} />
               <Route path="/contact" element={<Contact />} />
               <Route path="/business" element={<News category="business" country="in"/>} />
