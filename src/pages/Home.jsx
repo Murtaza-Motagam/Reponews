@@ -16,7 +16,7 @@ const Home = () => {
 
                 <Link to="/news" className="inline-flex font-fam-roboto text-white bg-red-800 border-0 py-2 px-6 focus:outline-none hover:bg-red-700 rounded  font-bold sm:text-sm lg:text-lg">Watch News</Link>
 
-                <Link to="/trending" class="bg-transparent ml-4 font-fam-roboto  hover:bg-red-700 text-red-700 font-semibold hover:text-white py-2  px-4 border border-red-700 hover:border-transparent rounded">
+                <Link to="/trending" className="bg-transparent ml-4 font-fam-roboto  hover:bg-red-700 text-red-700 font-semibold hover:text-white py-2  px-4 border border-red-700 hover:border-transparent rounded">
                 Visit Trending Headlines
                 </Link>
               </div>

@@ -14,52 +14,57 @@
 .font-fam-poppins {
   font-family: 'Poppins', sans-serif;
 }
+
 .font-fam-fjalla {
   font-family: 'Fjalla One', sans-serif;
 }
 
-.font-300{
+.font-300 {
   font-weight: 300;
 }
 
-.font-400{
+.font-400 {
   font-weight: 400;
 }
 
-.font-500{
+.font-500 {
   font-weight: 500;
 }
 
-.font-600{
+.font-600 {
   font-weight: 600;
 }
 
-.font-700{
+.font-700 {
   font-weight: 700;
 }
 
-.font-900{
+.font-900 {
   font-weight: 900;
 }
 
-.bg-default{
+.bg-default {
   /* background-color: #2d3748; */
   background-color: #910000de;
 }
 
-.active{
-  background-color: rgba(197,48,48);
+.active {
+  border: 3px solid white;
 }
 
-.bs-1{
+.bs-1 {
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
-.topbar{
+.topbar {
   position: absolute;
   right: 8px;
 }
 
-.d-none{
+.d-none {
   display: none;
+}
+
+.bg-set{
+  background: #ecf0f1;
 }

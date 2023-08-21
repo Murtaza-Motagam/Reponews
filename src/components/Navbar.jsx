@@ -48,33 +48,27 @@ const Navbar = () => {
                         {/* Menu items */}
                         <Link
                             to="/trending"
-                            className={`text-white hover:bg-red-700 px-3 mr-3 py-2 rounded-md text-sm font-medium ${location.pathname === '/trending' ? 'active' : ''}`}
+                            className={`text-white hover:bg-red-700 px-5 mr-3 py-2 rounded-md text-sm font-medium ${location.pathname === '/trending' ? 'active' : ''}`}
                         >
                            Trending
                         </Link>
                         <Link
                             to="/news"
-                             className={`text-white hover:bg-red-700 px-3 mr-3 py-2 rounded-md text-sm font-medium ${location.pathname === '/news' ? 'active' : ''}`}
+                             className={`text-white hover:bg-red-700 px-5 mr-3 py-2 rounded-md text-sm font-medium ${location.pathname === '/news' ? 'active' : ''}`}
                         >
                             News
                         </Link>
                         <Link
                             to="/explore"
-                            className="text-white hover:bg-red-700 px-3 mr-3 py-2 rounded-md text-sm font-medium"
+                            className={`text-white hover:bg-red-700 px-5 mr-3 py-2 rounded-md text-sm font-medium ${location.pathname === '/explore' ? 'active' : ''}`}
                         >
                             Explore
                         </Link>
                         <Link
                             to="/contact"
-                            className={`text-white hover:bg-red-700 px-3 mr-3 py-2 rounded-md text-sm font-medium ${location.pathname === '/contact' ? 'active' : ''}`}
+                            className={`text-white hover:bg-red-700 px-5 mr-3 py-2 rounded-md text-sm font-medium ${location.pathname === '/contact' ? 'active' : ''}`}
                         >
                             Contact
-                        </Link>
-                    </div>
-                    <div className="hidden sm:flex sm:items-center ">
-                        {/* Menu items */}
-                        <Link to="/" className="bg-red-600 hover:bg-red-800 text-white font-bold py-2 px-4 rounded">
-                            Register
                         </Link>
                     </div>
                 </div>
