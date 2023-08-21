@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Murtaza-Motagam/reponews/static/css/main.8bdc94b2.css",
-    "main.js": "/Murtaza-Motagam/reponews/static/js/main.c0691d83.js",
-    "static/media/giphy.gif": "/Murtaza-Motagam/reponews/static/media/giphy.8fddf8c760fab0b4e031.gif",
-    "static/media/hero-1.jpeg": "/Murtaza-Motagam/reponews/static/media/hero-1.206521f3189a52ce02a2.jpeg",
-    "index.html": "/Murtaza-Motagam/reponews/index.html",
-    "main.8bdc94b2.css.map": "/Murtaza-Motagam/reponews/static/css/main.8bdc94b2.css.map",
-    "main.c0691d83.js.map": "/Murtaza-Motagam/reponews/static/js/main.c0691d83.js.map"
+    "main.css": "/reponews/static/css/main.8bdc94b2.css",
+    "main.js": "/reponews/static/js/main.5c2a0f14.js",
+    "static/media/giphy.gif": "/reponews/static/media/giphy.8fddf8c760fab0b4e031.gif",
+    "static/media/hero-1.jpeg": "/reponews/static/media/hero-1.206521f3189a52ce02a2.jpeg",
+    "index.html": "/reponews/index.html",
+    "main.8bdc94b2.css.map": "/reponews/static/css/main.8bdc94b2.css.map",
+    "main.5c2a0f14.js.map": "/reponews/static/js/main.5c2a0f14.js.map"
   },
   "entrypoints": [
     "static/css/main.8bdc94b2.css",
-    "static/js/main.c0691d83.js"
+    "static/js/main.5c2a0f14.js"
   ]
 }
