@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Murtaza-Motagam/Reponews/static/css/main.8bdc94b2.css",
+    "main.js": "/Murtaza-Motagam/Reponews/static/js/main.2f84f05e.js",
+    "static/media/giphy.gif": "/Murtaza-Motagam/Reponews/static/media/giphy.8fddf8c760fab0b4e031.gif",
+    "static/media/hero-1.jpeg": "/Murtaza-Motagam/Reponews/static/media/hero-1.206521f3189a52ce02a2.jpeg",
+    "index.html": "/Murtaza-Motagam/Reponews/index.html",
+    "main.8bdc94b2.css.map": "/Murtaza-Motagam/Reponews/static/css/main.8bdc94b2.css.map",
+    "main.2f84f05e.js.map": "/Murtaza-Motagam/Reponews/static/js/main.2f84f05e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bdc94b2.css",
+    "static/js/main.2f84f05e.js"
+  ]
+}
